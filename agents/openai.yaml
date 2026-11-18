@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程作业工作流"
+  short_description: "从资料收集、需求与课件拆解到实验、报告、复现和提交的课程作业协作流程"
+  default_prompt: "使用 $coursework-workflow 读取这个课程项目，梳理作业要求、相关课件知识和当前进度，推进下一项已授权工作。"
